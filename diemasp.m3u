@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiemaSport1.bg" tvg-logo="https://i.postimg.cc/cHvkSDkG/20220927-132829.png"  group-title="Olahraga",Diema Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium465/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-logo="https://i.postimg.cc/cHvkSDkG/20220927-132829.png"  group-title="Olahraga",Diema Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium466/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-logo="https://i.postimg.cc/cHvkSDkG/20220927-132829.png"  group-title="Olahraga",Diema Sport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium467/index.m3u8|referer=https://widevine.licenses4.me/
