@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="SuperSportGrandstand.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Grand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium412/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium413/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium414/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport La Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium415/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportVariety.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Variety 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium416/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Variety 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium417/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Variety 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium418/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Variety 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium419/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium420/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Rugby
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium421/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium422/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium423/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Motorsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium424/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SuperSportCricket.ca" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="Olahraga",Supersport Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium368/index.m3u8
